@@ -1,0 +1,25 @@
+.top {
+	height: 200px;
+	background-color: green;
+	text-align: center;
+	padding: 60px;
+	color: white;
+	background-image: url(../img/img.jpg);
+	background-size: cover;
+}
+section{
+	margin: 30px;
+}
+.ancor{
+	background-color: blue;
+	padding: 10px 20px;
+	border-radius: 10px;
+	color: white;
+}
+.sibir{
+	background-color: blue;
+	padding: 10px 20px;
+	border-radius: 10px;
+	color: white;
+}
+
